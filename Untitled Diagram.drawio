@@ -37,7 +37,7 @@
           <mxGeometry x="90" y="533" width="405" height="35" as="geometry" />
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-32" value="Web Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="900" width="140" height="110" as="geometry" />
+          <mxGeometry x="1160" y="900" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-35" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" edge="1" parent="1" source="MGjpmvllVsbpUqZVuK8m-32" target="MGjpmvllVsbpUqZVuK8m-28">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -127,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-52" value="Different images for users in each case for example:&lt;div&gt;1- An image having MPI&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;environment&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;for testing MPI code&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2- Image having OpenMP environment for testing OpenMP Code&lt;/div&gt;" style="fillColor=#ffff99;whiteSpace=wrap;shape=cloud;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="508.04" width="500" height="108.08" as="geometry" />
+          <mxGeometry x="870" y="500" width="500" height="108.08" as="geometry" />
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MGjpmvllVsbpUqZVuK8m-24" target="MGjpmvllVsbpUqZVuK8m-52">
           <mxGeometry relative="1" as="geometry" />
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-59" value="After terminating the POD Session by any mean automatically logout user from the system to avoid interacting with the management system" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="70" y="40" width="520" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MGjpmvllVsbpUqZVuK8m-61" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=open;elbow=vertical;endFill=0;dashed=1;startArrow=open;startFill=0;dashPattern=1 4;rounded=0;exitX=0.985;exitY=0.781;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MGjpmvllVsbpUqZVuK8m-48" target="MGjpmvllVsbpUqZVuK8m-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="806.3" y="420.0000000000001" as="sourcePoint" />
+            <mxPoint x="1450" y="970" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1440" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
