@@ -36,7 +36,7 @@
         <mxCell id="MGjpmvllVsbpUqZVuK8m-30" value="Kubernetes" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=serv;archiType=rounded" vertex="1" parent="1">
           <mxGeometry x="90" y="533" width="405" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="MGjpmvllVsbpUqZVuK8m-32" value="User Machine" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
+        <mxCell id="MGjpmvllVsbpUqZVuK8m-32" value="Web Interface" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.device;" vertex="1" parent="1">
           <mxGeometry x="650" y="750" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MGjpmvllVsbpUqZVuK8m-35" value="" style="edgeStyle=elbowEdgeStyle;html=1;endArrow=block;dashed=0;elbow=vertical;endFill=1;rounded=0;" edge="1" parent="1" source="MGjpmvllVsbpUqZVuK8m-32" target="MGjpmvllVsbpUqZVuK8m-28">
